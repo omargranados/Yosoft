@@ -1,0 +1,24 @@
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo\Bin\Debug\Hola mundo.dll
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo\Bin\Debug\Hola mundo.pdb
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo\Bin\Debug\AppManifest.xaml
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo\Bin\Debug\Hola mundo.xap
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo\Bin\Debug\Hola_mundoTestPage.html
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo\obj\Debug\App.g.i.cs
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo\obj\Debug\MainPage.g.i.cs
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo\obj\Debug\Hola mundo.g.resources
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo\obj\Debug\Hola mundo.dll
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo\obj\Debug\Hola mundo.pdb
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo\obj\Debug\XapCacheFile.xml
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo\Bin\Debug\Hola mundo.dll
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo\Bin\Debug\Hola mundo.pdb
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo\Bin\Debug\AppManifest.xaml
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo\Bin\Debug\Hola mundo.xap
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo\Bin\Debug\Hola_mundoTestPage.html
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo\obj\Debug\App.g.i.cs
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo\obj\Debug\MainPage.g.i.cs
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo\obj\Debug\Hola mundo.g.resources
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo\obj\Debug\Hola mundo.dll
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo\obj\Debug\Hola mundo.pdb
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo\obj\Debug\XapCacheFile.xml

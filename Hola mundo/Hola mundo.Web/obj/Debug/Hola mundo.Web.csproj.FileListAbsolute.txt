@@ -1,0 +1,10 @@
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo.Web\bin\Hola mundo.Web.dll
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo.Web\bin\Hola mundo.Web.pdb
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo.Web\obj\Debug\Hola mundo.Web.dll
+C:\Users\usuario\Yosoft\Hola mundo\Hola mundo.Web\obj\Debug\Hola mundo.Web.pdb
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo.Web\bin\Hola mundo.Web.dll
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo.Web\bin\Hola mundo.Web.pdb
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo.Web\obj\Debug\Hola mundo.Web.dll
+C:\Users\usuario\Desktop\Hola mundo\Hola mundo.Web\obj\Debug\Hola mundo.Web.pdb
