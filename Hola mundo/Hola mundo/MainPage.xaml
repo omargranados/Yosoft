@@ -8,6 +8,7 @@
 
     <Grid x:Name="LayoutRoot" Background="SkyBlue">
         <Button x:Name="Boton" Content="Presioname!" Width="100" Height="50" Click="Boton_Click"/>
+        <Button2 x:Name="Boton2" Conten="Presioname! si puedes" Width="100" Heigth="50" Click="Boton2_Click" Margin="176,182,174,94"/>
         
     </Grid>
 </UserControl>
